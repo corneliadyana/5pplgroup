@@ -3,11 +3,14 @@
 suh dude welcome to the club
 download aja github for desktop biar gampang hhe
 
-anyw :
- sounds : sounds for video game my dudes
- visuals : aRRRRRRttttttTTTTTTTTT
- main / master : buat build / gamenya sendiri. file design sama gdd juga di sini. 
+here r the functions for each folder
 
-kalo misalnya ada yang kita ga bikin sendiri (ngambil asset dari luar) masukkin linknya ke file txt yang namanya resources in each folder.
+sounds : sounds for video game my dudes
+
+visuals : aRRRRRRttttttTTTTTTTTT
+
+main / master (aka this folder) : buat build / gamenya sendiri. file design sama gdd juga di sini. 
+
+note : kalo misalnya ada yang kita ga bikin sendiri (ngambil asset dari luar) masukkin linknya ke file txt yang namanya resources in each folder.
 
 tenkyu 
