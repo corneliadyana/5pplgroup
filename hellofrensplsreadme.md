@@ -11,6 +11,8 @@ visuals : aRRRRRRttttttTTTTTTTTT
 
 main / master (aka this folder) : buat build / gamenya sendiri. file design sama gdd juga di sini. 
 
+pls masukkin file (/upload + commit) to their respective folders tenkyu ily all
+
 note : kalo misalnya ada yang kita ga bikin sendiri (ngambil asset dari luar) masukkin linknya ke file txt yang namanya resources in each folder.
 
 tenkyu 
