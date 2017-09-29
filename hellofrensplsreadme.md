@@ -16,3 +16,6 @@ pls masukkin file (/upload + commit) to their respective folders tenkyu ily all
 note : kalo misalnya ada yang kita ga bikin sendiri (ngambil asset dari luar) masukkin linknya ke file txt yang namanya resources in each folder.
 
 tenkyu 
+
+unrelated extras : 
+itch.io secret url : https://obligation.itch.io/hikkydot?secret=UjM1GfR4AIkNut1YQ1wR1BMicjQ
