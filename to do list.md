@@ -14,7 +14,7 @@ kamar : meja dengan komputer, rak isi buku (komik ato apa), box terbuka isi merc
 
 luar kamar : kucing (sleeping), chandelier, sofa (veiled, bc mau pindah rumah), the thing (counter token listrik) 
 
-luar rumah : pagar (dikunci), manhole (terbuka), tong sampah terbalik, pohon dengan dahan2 banyak, mobil (engine nyala, lampu nyala, ada orang di dalamnya bisa aja dibikin siluet), fire hydrant yang bocor (jadi ada genangan airnya)
+luar rumah : pagar (dikunci), manhole (terbuka), tong sampah terbalik, pohon dengan dahan2 banyak, mobil (engine nyala, lampu nyala, ada orang di dalamnya bisa aja dibikin siluet), fire hydrant yang bocor (jadi ada genangan airnya; pisahin layernya), anjing (lari), beehive, warning sign segitiga, portal kompleks  
 
 hana : bg 
 
