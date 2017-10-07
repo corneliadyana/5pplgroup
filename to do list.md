@@ -25,7 +25,7 @@ luar kamar (2) : dinding berupa wallpaper merah (ada motifnya, think of smth yan
 
 luar rumah (3) : 1-- sebelah kiri ada exterior rumah hikky, bg banyak rumah kompleks (generally seragam), jalan beraspal // 2-- cuma rumah kompleks bgnya dan jalan beraspal // 3 -- bg kayak rumah2 kompleks, sama seperti sebelumnya, tapi 1/4 bagian kanan screen isinya pohon2 
 
-taman : 
+taman (3) : 1 -- ada lampu2 taman di bg, 1/4 screen sebelah kiri ada gate sama pagar untuk masuk ke taman. floornya kayak stone pavement, di bg ada pohon2 dan semak2. langitnya gelap masih malam. // 2-- di bg masih ada pohon2, semak2, dan lampu taman. // 3-- u can see the moon in the sky (full moon). lantainya masih stone pavement, masih ada pohon2 tapi semakin ke kanan semakin sedikit, 1/4 screen sebelah kanan pagar dan gate keluar dari taman.
 
 bela : UI / buttons 
 
