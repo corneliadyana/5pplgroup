@@ -1,4 +1,4 @@
-# Stage One : inside hikky's room (doubles as tutorial_
+# Stage One : inside hikky's room (doubles as tutorial)
 
 (hikky plays the computer, sfx : typing sounds)
 
