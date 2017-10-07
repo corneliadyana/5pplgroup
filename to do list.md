@@ -21,9 +21,9 @@ hana : bg
 kamar : kamar dengan poster2 wibu like pretty much scattered everywhere on the wall + window dan gordyn terbuka + tempat tidur + lemari baju + lampu + ac + sampah berserakan + box terbuka dan tertutup -- seperti punya nia
 note : gambar untuk lantai dan dinding dipisah filenya, bg kalau bisa seamless
 
-luar kamar : dinding berupa wallpaper merah (ada motifnya, think of smth yang kayak wallpapernya mr bean, warna utama merah maroon dengan garis / motifnya emas / kuning), jendela, lantai kayu, ada satu - dua painting di dinding (satunya painting keluarga gitu; kalo muka ortunya ga digambar gpp juga, grandfather's clock, jadi yang keliatan cuma mukanya hikki u get me), rak kayu isinya buku2 (ada buku yang tebel2 kayak ensiklopedia gitu)
+luar kamar (2) : dinding berupa wallpaper merah (ada motifnya, think of smth yang kayak wallpapernya mr bean, warna utama merah maroon dengan garis / motifnya emas / kuning), jendela, lantai kayu, ada satu - dua painting di dinding (satunya painting keluarga gitu; kalo muka ortunya ga digambar gpp juga, grandfather's clock, jadi yang keliatan cuma mukanya hikki u get me), rak kayu isinya buku2 (ada buku yang tebel2 kayak ensiklopedia gitu)
 
-luar rumah : bg kayak rumah2 kompleks, trus jalannya kayak jalan aspal biasa, ada tiang listrik banyak dengan kabel2nya ada yang turun ke bawah. Untuk bagian yang tiang listrik sama kabel2nya layernya dipisah dari layer2 yang lain tenkyu 
+luar rumah (3) : bg kayak rumah2 kompleks, trus jalannya kayak jalan aspal biasa, ada tiang listrik banyak dengan kabel2nya ada yang turun ke bawah. Untuk bagian yang tiang listrik sama kabel2nya layernya dipisah dari layer2 yang lain tenkyu 
 
 bela : UI / buttons (start, continue, exit, timer, death count, pause, decide what font to use as subtitle, box untuk choice, logo buat start screen)
 
