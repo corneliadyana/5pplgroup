@@ -1,6 +1,4 @@
-ay a to-do list
-
-VISUALS
+#Visuals 
 
 resolution : 300 dpi
 
