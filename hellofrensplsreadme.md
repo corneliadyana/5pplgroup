@@ -19,3 +19,13 @@ tenkyu
 
 unrelated extras : 
 itch.io secret url : https://obligation.itch.io/hikkydot?secret=UjM1GfR4AIkNut1YQ1wR1BMicjQ
+
+Carissa Bela	2001562470
+
+Cornelia Dyana Rastiti	2001597770
+
+Hana Irmafiona	2001583784
+
+Livia Jesslyn Chandra	2001557924
+
+Zephania Isadora	2001548346
