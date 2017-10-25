@@ -25,11 +25,16 @@ public class walk : MonoBehaviour {
 			}
 		}
 
-		if(Input.GetKey(KeyCode.D)) {
-			transform.Translate (speed * Time.deltaTime, 0f, 0f); 
-		}
+		if (Input.GetKey (KeyCode.D)) {
+			transform.Translate (speed * Time.deltaTime, 0f, 0f);
+			GetComponent<AudioSource> ().UnPause ();
+		} 
 		else if (Input.GetKey (KeyCode.A)) {
 			transform.Translate (-speed * Time.deltaTime, 0f, 0f);
+			GetComponent<AudioSource> ().UnPause ();
+		}
+		else {
+			GetComponent<AudioSource> ().Pause ();
 		}
 
 		if(Input.GetKeyDown(KeyCode.Space) && isGround){

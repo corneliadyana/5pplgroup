@@ -51,7 +51,33 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\scripts\camfollow.cs" />
      <Compile Include="Assets\scripts\walk.cs" />
+     <Compile Include="Assets\visuals\Utility\ActivateTrigger.cs" />
+     <Compile Include="Assets\visuals\Utility\AlphaButtonClickMask.cs" />
+     <Compile Include="Assets\visuals\Utility\AutoMobileShaderSwitch.cs" />
+     <Compile Include="Assets\visuals\Utility\AutoMoveAndRotate.cs" />
+     <Compile Include="Assets\visuals\Utility\CameraRefocus.cs" />
+     <Compile Include="Assets\visuals\Utility\CurveControlledBob.cs" />
+     <Compile Include="Assets\visuals\Utility\DragRigidbody.cs" />
+     <Compile Include="Assets\visuals\Utility\DynamicShadowSettings.cs" />
+     <Compile Include="Assets\visuals\Utility\EventSystemChecker.cs" />
+     <Compile Include="Assets\visuals\Utility\FollowTarget.cs" />
+     <Compile Include="Assets\visuals\Utility\ForcedReset.cs" />
+     <Compile Include="Assets\visuals\Utility\FOVKick.cs" />
+     <Compile Include="Assets\visuals\Utility\FPSCounter.cs" />
+     <Compile Include="Assets\visuals\Utility\LerpControlledBob.cs" />
+     <Compile Include="Assets\visuals\Utility\ObjectResetter.cs" />
+     <Compile Include="Assets\visuals\Utility\ParticleSystemDestroyer.cs" />
+     <Compile Include="Assets\visuals\Utility\PlatformSpecificContent.cs" />
+     <Compile Include="Assets\visuals\Utility\SimpleActivatorMenu.cs" />
+     <Compile Include="Assets\visuals\Utility\SimpleMouseRotator.cs" />
+     <Compile Include="Assets\visuals\Utility\SmoothFollow.cs" />
+     <Compile Include="Assets\visuals\Utility\TimedObjectActivator.cs" />
+     <Compile Include="Assets\visuals\Utility\TimedObjectDestructor.cs" />
+     <Compile Include="Assets\visuals\Utility\WaypointCircuit.cs" />
+     <Compile Include="Assets\visuals\Utility\WaypointProgressTracker.cs" />
+     <None Include="Assets\sounds\sfx.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
