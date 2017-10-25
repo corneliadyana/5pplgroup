@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/lvl00tut.unity
+  isLoaded: 1
+  isActive: 1
