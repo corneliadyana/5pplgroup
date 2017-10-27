@@ -195,7 +195,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 3.1279063, y: 2.1222725}
@@ -398,14 +398,14 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 716213086}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5d8238cc53530b64fbb7828c3d3bb591, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1868540759}
   damping: 1
-  lookAheadFactor: 4
+  lookAheadFactor: 3
   lookAheadReturnSpeed: 0.5
   lookAheadMoveThreshold: 0.1
 --- !u!114 &716213092
@@ -414,14 +414,16 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 716213086}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c39eaa95f2bd4fb4192240b04eae234f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speedo: 0.1
-  farleft: {fileID: 0}
-  farright: {fileID: 0}
+  playerToFollow: {fileID: 1868540759}
+  Height: 0
+  Zoom: 0
+  max: 0
+  min: 0
 --- !u!1 &837025740
 GameObject:
   m_ObjectHideFlags: 0

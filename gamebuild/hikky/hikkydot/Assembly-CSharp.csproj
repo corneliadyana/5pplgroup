@@ -52,6 +52,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\camfollow.cs" />
+     <Compile Include="Assets\scripts\creditsscene.cs" />
+     <Compile Include="Assets\scripts\exitgame.cs" />
+     <Compile Include="Assets\scripts\movescene01.cs" />
+     <Compile Include="Assets\scripts\startgame.cs" />
      <Compile Include="Assets\scripts\walk.cs" />
      <Compile Include="Assets\visuals\Utility\ActivateTrigger.cs" />
      <Compile Include="Assets\visuals\Utility\AlphaButtonClickMask.cs" />
