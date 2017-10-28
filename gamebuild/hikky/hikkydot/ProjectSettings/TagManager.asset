@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - box
+  - pushable
   layers:
   - Default
   - TransparentFX
@@ -14,8 +16,8 @@ TagManager:
   - 
   - 
   - Ground
-  - 
-  - 
+  - texuto
+  - nyan
   - 
   - 
   - 
@@ -40,4 +42,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: woot
+    uniqueID: 1478626075
+    locked: 0
+  - name: doot
+    uniqueID: 1975949599
     locked: 0

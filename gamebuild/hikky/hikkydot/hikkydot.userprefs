@@ -1,9 +1,19 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\startgame.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\destroyobject.cs">
     <Files>
       <File FileName="Assets\scripts\movescene01.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\startgame.cs" Line="16" Column="3" />
+      <File FileName="Assets\scripts\startgame.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\walk.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ClickFleslit.cs" Line="23" Column="5" />
+      <File FileName="Assets\scripts\matilampu.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\exitgame.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\camfollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\pushpull.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\back2menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\creditsscene.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\playerpush.cs" Line="22" Column="65" />
+      <File FileName="Assets\scripts\destroyobject.cs" Line="5" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

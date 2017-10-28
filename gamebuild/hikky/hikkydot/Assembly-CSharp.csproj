@@ -51,11 +51,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\scripts\back2menu.cs" />
      <Compile Include="Assets\scripts\camfollow.cs" />
+     <Compile Include="Assets\scripts\ChangeSprite.cs" />
+     <Compile Include="Assets\scripts\ClickFleslit.cs" />
      <Compile Include="Assets\scripts\creditsscene.cs" />
+     <Compile Include="Assets\scripts\destroyobject.cs" />
+     <Compile Include="Assets\scripts\Dialogue.cs" />
      <Compile Include="Assets\scripts\exitgame.cs" />
+     <Compile Include="Assets\scripts\matilampu.cs" />
      <Compile Include="Assets\scripts\movescene01.cs" />
+     <Compile Include="Assets\scripts\playerpush.cs" />
+     <Compile Include="Assets\scripts\pushpull.cs" />
      <Compile Include="Assets\scripts\startgame.cs" />
+     <Compile Include="Assets\scripts\tocreds.cs" />
      <Compile Include="Assets\scripts\walk.cs" />
      <Compile Include="Assets\visuals\Utility\ActivateTrigger.cs" />
      <Compile Include="Assets\visuals\Utility\AlphaButtonClickMask.cs" />
