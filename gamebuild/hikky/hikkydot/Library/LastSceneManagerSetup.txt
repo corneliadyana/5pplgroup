@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/lvl01.unity
+- path: Assets/scenes/lvl00tut.unity
   isLoaded: 1
   isActive: 1
